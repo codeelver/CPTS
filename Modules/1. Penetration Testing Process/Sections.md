@@ -1,0 +1,15 @@
+- Introduction to the Penetration Tester Path
+- Academy Modules Layout
+- Academy Exercises & Questions
+- Penetration Testing Overview
+- Laws and Regulations
+- Penetration Testing Process
+- Pre-Engagement
+- Information Gathering
+- Vulnerability Assessment
+- Exploitation
+- Post-Exploitation
+- Lateral Movement
+- Proof-of-Concept
+- Post-Engagement
+- Practice
